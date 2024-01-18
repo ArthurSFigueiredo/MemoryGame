@@ -9,3 +9,6 @@ Neste repositório, você encontrará um jogo da memória. Este projeto não ape
 
 ## Créditos
 Este jogo foi desenvolvido como parte de um projeto educacional por mim mesmo.
+
+## Preview
+![image](https://github.com/Tuttiz/MemoryGame/assets/130777030/11495318-55de-4e8c-a8f2-b7bbcece2ab5)
